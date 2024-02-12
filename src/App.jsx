@@ -1,7 +1,9 @@
+import Header from "../src/components/Header";
+
 const App =()=>{
   return (
     <>
-      Hello React
+      <Header></Header>
     </>
   )
 }
